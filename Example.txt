@@ -1,0 +1,42 @@
+[
+    {
+        "Group Name": "Group 1",
+        "Beam Type": "N/A",
+        "Number of Subjects": "N/A",
+        "Total Absorbed Dose per Particle Type": "N/A",
+        "Total Absorbed Dose Units": "N/A",
+        "Time Point of Sacrifice Post-Irradiation": "1 week and 6 months",
+        "Sex of Subjects": "Male",
+        "Strain of Subjects": "C57BL/6"
+    },
+    {
+        "Group Name": "Group 2",
+        "Beam Type": "260 MeV/n 28Si ions",
+        "Number of Subjects": "N/A",
+        "Total Absorbed Dose per Particle Type": "0.5",
+        "Total Absorbed Dose Units": "Gy",
+        "Time Point of Sacrifice Post-Irradiation": "1 week and 6 months",
+        "Sex of Subjects": "Male",
+        "Strain of Subjects": "C57BL/6"
+    },
+    {
+        "Group Name": "Group 3",
+        "Beam Type": "N/A",
+        "Number of Subjects": "N/A",
+        "Total Absorbed Dose per Particle Type": "N/A",
+        "Total Absorbed Dose Units": "N/A",
+        "Time Point of Sacrifice Post-Irradiation": "1 week and 6 months",
+        "Sex of Subjects": "Male",
+        "Strain of Subjects": "C57BL/6"
+    },
+    {
+        "Group Name": "Group 4",
+        "Beam Type": "260 MeV/n 28Si ions",
+        "Number of Subjects": "N/A",
+        "Total Absorbed Dose per Particle Type": "0.5",
+        "Total Absorbed Dose Units": "Gy",
+        "Time Point of Sacrifice Post-Irradiation": "1 week and 6 months",
+        "Sex of Subjects": "Male",
+        "Strain of Subjects": "C57BL/6"
+    }
+]

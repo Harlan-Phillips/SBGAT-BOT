@@ -1,0 +1,23 @@
+Objectives
+This is the first task book for Phase 1 study of our project entitled "Countermeasures against adverse effects of space radiation." The primary goal of our Phase 1 study is to test the efficacy of apigenin (AP) for the prevention and mitigation of cancer in male mice due to exposure to space radiation as measured by incidence, aggressiveness, burden, and latency. Our main hypothesis is that AP exhibits its beneficial effects by suppression of radiation-induced inflammation and oxidative stress during the initiation/promotion steps of carcinogenesis. Although the emphasis will be on the mitigation of lung cancer and lymphoma/leukemia, other types of cancer will be recorded.
+
+In this project, we will give food containing AP to male mice before and after exposure to heavy silicon (28Si) ions. There are four groups of mice. These are sham controls (Group 1, no AP diet, no radiation), mice receiving 0.5 Gy of 260 MeV/n 28Si ions radiation only and without AP diet (Group 2), mice receiving AP only with no radiation exposure (Group 3), and mice receiving both AP and radiation (Group 4). Groups of mice from each treatment will be used for a serial sacrifice schedule at 1 week and 6 months post-irradiation. This will test the ability of AP to counteract heavy-ion-induced early- and late-occurring inflammation and oxidative damage in various tissues linked to cancer that are the focus of our study (i.e., bone marrow, lung, thymus, spleen). All remaining mice will be observed for morbidity and mortality until they reach about 600-700 days of age. Our data enable the evaluation of countermeasure efficacy of AP across tissues at risk for cancer induction, i.e., bone marrow and the lung. This multi-tissue of the same exposed individual approach has not been used in space research.
+
+Aim 1: Measure the levels of early- and late-occurring impairment of the immune system in multiple tissues (plasma, BM, spleen, thymus, lung, brain, and heart) of the same mouse (male and female) included in the serial sacrifice, with or without exposure to a single beam of 260 MeV/n 28Si ions and a mixed beam of protons 1 GeV protons and 260 MeV/n 28Si ions, with or without AP treatment.
+
+Aim 2: Quantify the levels of early- and late-occurring oxidative damage in multiple tissues (plasma, BM, spleen, thymus, lung, brain, and heart) of the same mouse (male and female) included in the serial sacrifice, with or without exposure to a single beam of 260 MeV/n 28Si ions and a mixed beam of 1 GeV protons and 260 MeV/n 28Si ions, with or without AP treatment.
+
+Aim 3: Determine the effectiveness of AP in prevention, mitigation or delay of lung cancer or lymphoma/leukemia in exposed male or female C57BL/6 mice after exposure to a single beam of 260 MeV/n 28Si ions or a mixed beam of protons 1 GeV protons and 260 MeV/n 28Si ions as
+determined by an incidence, aggressiveness, overall burden, and latency.
+
+Approach
+We will give food containing AP to mice (males and females) before and after exposure to silicon (Si) ions. Subsequently, the mixedbeam (protons + Si) experiment will be designed. Oxidative stress and inflammation are highly relevant not only to carcinogenesis but also to cardiovascular and nervous disorders. Hence, groups of mice from each treatment will be used for a serial sacrifice schedule at 1 week and 3 months post-irradiation. This will test the ability of AP to counteract heavy-ion-induced early- and late-occurring inflammation and oxidative damage in various tissues linked to cancer that are the focus of our study (i.e. bone marrow, lung, thymus, spleen), including the heart and the brain of the same mouse. All remaining mice will be observed for morbidity and mortality until they reach about 800 days of age. Our data enable the evaluation of countermeasure efficacy of AP not only across tissues at risk for cancer but also across risk areas. This multi-tissue approach has not been used in space research.
+
+Currently, we are conducting phase 1 of the study involving the exposure of male C57Bl6 mice. It is anticipated that phase 2 of the study involving the exposure of female mice will be initiated in 2021.
+
+Results
+This experiment is currently in progress. Results will be available at the conclusion of the study.
+
+
+The highlights of our data are:
+*

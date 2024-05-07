@@ -1,0 +1,9 @@
+streamlit
+pandas
+openpyxl
+altair
+pydantic 
+langchain_community
+langchain
+langchain_core
+fuzzywuzzy 
