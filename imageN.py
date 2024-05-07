@@ -113,6 +113,8 @@ def generate_images(group_data, total_mice, strain, experiment_title, institutio
                         min_duration = group['duration']
                 min_weeks = min_duration
                 max_weeks = max_duration
+                if (max_weeks - min weeks) == 0:
+                            min_weeks = 1
                 length = ((duration_weeks - min_weeks) / (max_weeks - min_weeks)) * (max_length - min_length) + min_length
                 return max(min_length, min(length, max_length))
             
