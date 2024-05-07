@@ -111,7 +111,7 @@ def generate_images(group_data, total_mice, strain, experiment_title, institutio
                     if group['duration'] < min_duration:
                         # Update max_duration with the higher value
                         min_duration = group['duration']
-                min_weeks = 1
+                min_weeks = min_duration
                 max_weeks = max_duration
                 length = ((duration_weeks - min_weeks) / (max_weeks - min_weeks)) * (max_length - min_length) + min_length
                 return max(min_length, min(length, max_length))
