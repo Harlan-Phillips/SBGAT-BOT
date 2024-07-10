@@ -54,7 +54,7 @@ After setting up the project, you can visit the web app and utilize two function
 2. Install the required packages and run the Streamlit application as described above.
 3. Access the AI page and input text from PDFs to generate a graphical abstract.
 
-Link to streamlit app: https://llm-visualizer.streamlit.app/
+Link to streamlit app: https://sbgat-bot.streamlit.app/
 
 ## Demo
 
