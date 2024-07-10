@@ -1,6 +1,6 @@
-# LLM Visualizer
+# SBGAT-BOT
 
-The LLM Visualizer is a Python tool designed to create graphical representations of scientific experiments. It extracts data from PDFs of experimental studies and generates visual summaries of the data. The project aims to simplify the interpretation of scientific results and integrate visual analytics into machine learning workflows.
+The SBGAT-BOT is a Python tool designed to create graphical representations of scientific experiments. It extracts data from PDFs of experimental studies and generates visual summaries of the data. The project aims to simplify the interpretation of scientific results and integrate visual analytics into machine learning workflows.
 
 ## Features
 
@@ -10,7 +10,7 @@ The LLM Visualizer is a Python tool designed to create graphical representations
 
 ## Background
 
-NASA Ames Research Center, in collaboration with the Open Data Science community, has been at the forefront of applying machine learning to extract meaningful insights from vast amounts of research data. The LLM Visualizer is a contribution to this endeavor, promising to streamline the process of data to decision-making in research environments.
+NASA Ames Research Center, in collaboration with the Open Data Science community, has been at the forefront of applying machine learning to extract meaningful insights from vast amounts of research data. The SBGAT-BOT is a contribution to this endeavor, promising to streamline the process of data to decision-making in research environments.
 
 ## Getting Started
 
@@ -23,13 +23,45 @@ To get a local copy up and running, follow these simple steps.
 - Additional Python libraries as required by the project
 
 ### Installation
-1. Clone the repository:
 ```bash
+# Clone the repository:
 git clone https://github.com/Harlan-Phillips/LLM-Visualizer.git
 
-Install the required packages:
+# Change directory to project folder
+cd SBGAT-BOT
+
+# Install the required packages:
 pip install -r requirements.txt
 
+# Run the App
+python -m streamlit run Visualizer.py
+
+```
+
+
+2.Install the required packages:
+## Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+- Python 3.6 or higher
+- PIL (Python Imaging Library)
+- Additional Python libraries as required by the project
+
+### Installation
+```bash
+# Clone the repository:
+git clone https://github.com/Harlan-Phillips/LLM-Visualizer.git
+
+# Change directory to project folder
+cd SBGAT-BOT
+
+# Install the required packages:
+pip install -r requirements.txt
+
+Run the App
 python -m streamlit run <filename.py>
 ```
 ### Usage
