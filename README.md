@@ -38,44 +38,24 @@ python -m streamlit run Visualizer.py
 
 ```
 
-
-2.Install the required packages:
-## Getting Started
-
-To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
-
-- Python 3.6 or higher
-- PIL (Python Imaging Library)
-- Additional Python libraries as required by the project
-
-### Installation
-```bash
-# Clone the repository:
-git clone https://github.com/Harlan-Phillips/LLM-Visualizer.git
-
-# Change directory to project folder
-cd SBGAT-BOT
-
-# Install the required packages:
-pip install -r requirements.txt
-
-Run the App
-python -m streamlit run <filename.py>
-```
 ### Usage
 
-After setting up the project, you can run the script visualizer.py to start generating visualizations from your data.
-```
-from visualizer import create_visualization
+After setting up the project, you can visit the web app and utilize two functionalities:
 
-# Example data input
-data = { ... }
+1. **Tabular Input:**
+   - Upload an Excel file and click "Generate Image" to create a visual representation of the data.
 
-create_visualization(data)
-```
+2. **Manual Input:**
+   - Enter the data manually into the provided fields to generate the visualization.
+
+**Note:** The AI Image Generation tab cannot be used on the public site due to API key restrictions. To use this functionality, follow these steps:
+
+1. Clone the repository and change the API key in `aiGenerator.py` to your own GPT-3.5 API key.
+2. Install the required packages and run the Streamlit application as described above.
+3. Access the AI page and input text from PDFs to generate a graphical abstract.
+
 Link to streamlit app: https://llm-visualizer.streamlit.app/
+
 ## Demo
 
 ![Video Demo](assets/NBISCProj2.gif)
