@@ -1,6 +1,6 @@
 # SBGAT-BOT
 
-The SBGAT-BOT is a Python tool designed to create graphical representations of scientific experiments. It extracts data from PDFs of experimental studies and generates visual summaries of the data. The project aims to simplify the interpretation of scientific results and integrate visual analytics into machine learning workflows.
+The SBGAT-BOT (Space Biology Graphical Abstract Tool Bot) is a Python tool designed to create graphical representations of scientific experiments. It extracts data from PDFs of experimental studies and generates visual summaries of the data. The project aims to simplify the interpretation of scientific results and integrate visual analytics into machine learning workflows.
 
 ## Features
 
